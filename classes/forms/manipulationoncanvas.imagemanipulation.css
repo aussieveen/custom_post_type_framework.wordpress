@@ -1,0 +1,7 @@
+#resizeable{
+	border: 1px dotted #CCC;
+}
+
+#resizable:hover{
+	cursor:move;
+}
